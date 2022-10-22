@@ -1,6 +1,6 @@
 # Jobs scraper
 
-### This notebook scrape the web development jobs from portals  :  Internshala, Linkedin and Monster and returns a CSV file of the combined results
+### The jobscrape notebook is intented scrape the web development jobs from portals  :  Internshala, Linkedin and Monster and returns a CSV file of the combined results
 
 
 
